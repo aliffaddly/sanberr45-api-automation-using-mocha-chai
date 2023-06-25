@@ -1,0 +1,21 @@
+{
+  "name": "sanber-45-mocha",
+  "version": "1.0.0",
+  "description": "mocha,chai,supertest,jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest"
+  ],
+  "author": "alif",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
